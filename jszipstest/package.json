@@ -1,0 +1,9 @@
+{
+  "name": "jszipstest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@publishvue/jszips": "^1.0.5"
+  }
+}
